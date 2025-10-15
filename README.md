@@ -19,6 +19,8 @@ Your job is to transform these files into fully functional **URDFs**, visualize 
 
 ## 🧰 The Task
 
+[**READ TASK GUIDE HERE**](task4-guide/README.md)
+
 ### 🎯 Objective
 Convert each company’s CAD model into a working URDF robot description using ROS 2.
 
